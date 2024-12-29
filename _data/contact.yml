@@ -3,8 +3,14 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+
+
+- type: QQ
+  icon: "fab fa-qq"
+  url: 'https://user.qzone.qq.com/1144182595/infocenter'
+
+# - type: twitter
+#   icon: "fa-brands fa-x-twitter"
 
 - type: email
   icon: "fas fa-envelope"
